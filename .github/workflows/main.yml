@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: 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
+          token: "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"
           base: header, activity, community, repositories, metadata
 
 
