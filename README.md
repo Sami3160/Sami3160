@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&pause=1000&color=3D52A0&vCenter=true&random=false&width=435&lines=Hello+nakama%2C+Im+Samiii+%3AD)](https://git.io/typing-svg)
 <br/>
-<img src="https://media.gifdb.com/office-cat-typing-computer-l6urlu1jc1bvwo3i.gif" />
-![Office Cat Typing](https://media.gifdb.com/office-cat-typing-computer-l6urlu1jc1bvwo3i.gif)
+		<a href="https://gifdb.com/gif/office-cat-typing-computer-l6urlu1jc1bvwo3i.html" class="file" id="media-link" rel="noopener" target="_blank">
+		<img src="https://gifdb.com/images/high/office-cat-typing-computer-l6urlu1jc1bvwo3i.webp" style="width:100%;"></a>
 
 
 <br/>
