@@ -1,18 +1,19 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&pause=1000&color=3D52A0&vCenter=true&random=false&width=435&lines=Hello+nakama%2C+Im+Samiii+%3AD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&pause=1000&color=3D52A0&vCenter=true&random=false&width=755&lines=🌟Hello+nakama%2C+Im+Samiii+%3AD)](https://git.io/typing-svg)
 <br/>
-		<a href="https://gifdb.com/gif/office-cat-typing-computer-l6urlu1jc1bvwo3i.html" class="file" id="media-link" rel="noopener" target="_blank">
-		<img src="https://gifdb.com/images/high/office-cat-typing-computer-l6urlu1jc1bvwo3i.webp" style="width:100%;"></a>
+<a href="https://gifdb.com/gif/office-cat-typing-computer-l6urlu1jc1bvwo3i.html" class="file" id="media-link" rel="noopener" target="_blank">
+<img src="https://gifdb.com/images/high/office-cat-typing-computer-l6urlu1jc1bvwo3i.webp" style="width:100%;"></a>
 
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&pause=1000&color=7091E6&random=false&width=435&lines=Im+20yo+web+developer+who+loves+Linux+and+enjoys+coding.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&pause=1000&color=7091E6&random=false&width=775&lines=Im+20yo+web+developer+who+loves+Linux+and+enjoys+coding.)](https://git.io/typing-svg)
 
 <!--
 <img src='https://memer-new.vercel.app/' style="height: 500px;width:1500px"/>
 -->
-##About me
-- 🌱 Intrested to explore **ML and Networking**
+<br/>
+### 👋 About me
+- 🌱 Intrested to explore **ML and Networking and Devops**
 - 🐧 I'm more intrested in **WebDev and linux**
 - ➗ I'm currently learning **DSA with JAVA** 
 - 💬 Hobbies watching **Anime and reading Manga**
@@ -21,10 +22,13 @@
 ### ✨ Some Universal Truth
 _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
 
+<br/><br/><br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=8697C4&random=false&width=435&lines=Find+me+on+internet+here)](https://git.io/typing-svg)
 <p align="left">
-<a href="https://linkedin.com/in/sami-bhadgaonkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sami-bhadgaonkar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sami-bhadgaokar-285833225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sami-bhadgaonkar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/sami3160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sami3160" height="30" width="40" /></a>
-<a href="https://medium.com/sami3160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sami3160" height="30" width="40" /></a>
+<a href="https://medium.com/@samibhadgaonkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sami3160" height="30" width="40" /></a>
   <!---
 <a href="https://www.leetcode.com/sami3160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sami3160" height="30" width="40" /></a>
 --->
@@ -41,12 +45,16 @@ _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sami3160&show_icons=true&locale=en&theme=radical" alt="sami3160" /></p>
 <!---
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sami3160" alt="sami3160" /></a> </p>
----><br/>
-<br/>
+--->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=8697C4&random=false&width=435&lines=Github+stats...)](https://git.io/typing-svg)
+
 <p align="left" >  
   <a href="https://github.com/sami3160/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=Sami3160&&show_icons=true&theme=radical"/>
   </a>
   </p>
+ <!---
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=8697C4&random=false&width=435&lines=Some+more+stats...)](https://git.io/typing-svg)
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/sami3160?theme=nord&font=Oxanium)
+--->
