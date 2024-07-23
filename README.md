@@ -6,16 +6,16 @@
 <br/>
 
 <a href="https://gifdb.com/gif/office-cat-typing-computer-l6urlu1jc1bvwo3i.html" class="file" id="media-link" rel="noopener" target="_blank">
-<img src="https://gifdb.com/images/high/office-cat-typing-computer-l6urlu1jc1bvwo3i.webp" style="width:100%;"></a>
+<img src="https://gifdb.com/images/high/office-cat-typing-computer-l6urlu1jc1bvwo3i.webp" style="width:40em;"></a>
 <!--
 <img src='https://memer-new.vercel.app/' style="height: 500px;width:1500px"/>
 -->
 <br/>
 
 ### 👋 About me
-- 🌱 Intrested to explore **ML and Networking and Devops**
 - 🐧 I'm more intrested in **WebDev and linux**
 - ➗ I'm currently learning **DSA with JAVA** 
+- 🌱 Intrested to explore **ML and Networking and Devops**
 - 💬 Hobbies watching **Anime and reading Manga**
 
 
