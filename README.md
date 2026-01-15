@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&pause=1000&color=3D52A0&vCenter=true&random=false&width=755&lines=🌟Hello+nakama%2C+Im+Samiii+%3AD)](https://git.io/typing-svg)
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&pause=1000&color=7091E6&random=false&width=775&lines=Im+20yo+web+developer+who+loves+Linux+and+enjoys+coding.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&pause=1000&color=7091E6&random=false&width=775&lines=Im+21yo+web+developer+who+loves+Linux+and+enjoys+coding.)](https://git.io/typing-svg)
 
 <br/>
 
